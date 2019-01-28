@@ -1,0 +1,41 @@
+header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+header nav ul li {
+    font-family: QuickSand-Medium,sans-serif;
+    margin-left: 35px;
+    text-transform: uppercase;
+}
+header nav ul li:first-child {
+    margin: 0;
+}
+
+header nav ul li a {
+    display: inline-block;
+    color: #0f7bff;
+}
+
+header nav ul li:nth-child(5){
+    width: 165px;
+}
+
+header nav ul li:hover {
+    opacity: .7;
+}
+
+header .logo img:hover {
+    opacity: .7;
+}
+
+ header .logo {
+    max-width: 131px;
+}
+
+header .logo img {
+    width: 100%;
+}
+header nav {
+    width: 35%;
+}

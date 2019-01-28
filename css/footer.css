@@ -1,0 +1,28 @@
+/*footer*/
+
+footer {
+    background: #f5fcfd;
+}
+
+footer nav ul li a {
+    margin-right: 40px;
+    color: #a1a2a3;
+}
+
+footer nav ul li:last-child a {
+    margin: 0;
+}
+
+footer nav ul li a:hover {
+    color: #0f7bff;
+}
+
+footer p:before {
+    content: url("../img/copyright.png");
+    position: relative;
+    top: 2px;
+    right: 3px;
+
+}
+
+/*footer/*
